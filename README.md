@@ -1,0 +1,1 @@
+# xray-fish-config
